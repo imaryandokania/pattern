@@ -2,9 +2,7 @@
 
 **1)DIAMOND:**
 
-
-
- <img src="http://drive.google.com/uc?export=view&id= 1GmEX_YfsEk-Qi2jgvMzE3u43yNvRwZKB" >
+<img src="http://drive.google.com/uc?export=view&id=1GmEX_YfsEk-Qi2jgvMzE3u43yNvRwZKB" width="100"/>
   
 
 ```
@@ -60,8 +58,8 @@ int main()
 **2)Hollow Diamond:**
 
 
+<img src="http://drive.google.com/uc?export=view&id=1c1LRi_ts43y2QTIa3mqrgvHK4kFJCAi2" width="100"/>
 
-<img src="http://drive.google.com/uc?export=view&id=1c1LRi_ts43y2QTIa3mqrgvHK4kFJCAi2" alt="g1">
 
 ```
 #include <iostream> 
@@ -122,19 +120,7 @@ int main()
 
 
 
-
-
-
-<img src="http://drive.google.com/uc?export=view&id=1q-dKbxjnwR0-tvMOspF3ObRM1xFCaHWF" alt="j">
-
-
-
-
-
-
-
-
-
+<img src="http://drive.google.com/uc?export=view&id=1q-dKbxjnwR0-tvMOspF3ObRM1xFCaHWF" width="100"/>
 
 ```
 #include <iostream> 
@@ -197,7 +183,7 @@ void printPattern(int n)
 
 
 
-<img src="http://drive.google.com/uc?export=view&id=1ZcyTaU9PSOa6ZmSuj8zROMzvxj4mBQQ_" alt="l">
+<img src="http://drive.google.com/uc?export=view&id=1ZcyTaU9PSOa6ZmSuj8zROMzvxj4mBQQ_" width="300"/>
 
 
 
